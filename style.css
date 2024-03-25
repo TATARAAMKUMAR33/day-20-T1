@@ -1,0 +1,26 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.body {
+    font-family: Noto Sans;
+    background: linear-gradient(90deg, rgb(198, 201, 12) 0%, rgb(138, 139, 141) 100%);
+
+}
+
+.covid-head {
+    color: rgb(14, 15, 14);
+    margin-top: 30px;
+}
+
+.table-head {
+    color: rgb(43, 38, 38);
+}
+
+.card {
+    background: transparent;
+    color: rgb(0, 0, 0);
+    box-shadow: 10px 10px 36px 5px rgb(41, 49, 3);
+}
